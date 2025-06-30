@@ -21,3 +21,5 @@ I'm a passionate developer from India, focused on building scalable web applicat
 
 Thanks for stopping by! ⭐  
 Feel free to check out my repositories and leave a ⭐ if you like what you see.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandusugguna&show_icons=true&theme=radical)
