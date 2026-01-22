@@ -10,10 +10,6 @@ I'm a passionate developer from India, focused on building scalable web applicat
 - 📦 Tools: Git, GitHub, VS Code, Postman
 - ☁️ Deployment: Netlify, Render
 
-## 💡 Goals for 2025
-- Contribute to open source projects 🧑‍💻
-- Master DevOps and cloud platforms like AWS ☁️
-- Build real-world full-stack apps 📱
 
 ## 📫 Let's Connect
 - 📧 Email: chandusugguna@gmail.com
